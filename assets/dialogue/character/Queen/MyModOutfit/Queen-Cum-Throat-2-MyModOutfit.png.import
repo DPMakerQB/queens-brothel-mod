@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Queen-Cum-Throat-2-MyModOutfit.png-43ef86ae1a7a52b9b14ded0348ff8adb.res"
+group_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Queen/MyModOutfit/Queen-Cum-Throat-2-MyModOutfit.png"
+dest_files=[ "res://.import/Queen-Cum-Throat-2-MyModOutfit.png-43ef86ae1a7a52b9b14ded0348ff8adb.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+import_mode=0
+crop_to_region=false

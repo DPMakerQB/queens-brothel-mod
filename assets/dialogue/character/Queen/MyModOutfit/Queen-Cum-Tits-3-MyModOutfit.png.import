@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Queen-Cum-Tits-3-MyModOutfit.png-232feb4489ea48679810f5c346e8b1a1.res"
+group_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Queen/MyModOutfit/Queen-Cum-Tits-3-MyModOutfit.png"
+dest_files=[ "res://.import/Queen-Cum-Tits-3-MyModOutfit.png-232feb4489ea48679810f5c346e8b1a1.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+import_mode=0
+crop_to_region=false

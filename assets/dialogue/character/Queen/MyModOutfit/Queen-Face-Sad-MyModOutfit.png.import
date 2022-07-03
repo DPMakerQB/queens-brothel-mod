@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Queen-Face-Sad-MyModOutfit.png-3e7d61d1c504f48a676c19d8eb01f3e0.res"
+group_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Queen/MyModOutfit/Queen-Face-Sad-MyModOutfit.png"
+dest_files=[ "res://.import/Queen-Face-Sad-MyModOutfit.png-3e7d61d1c504f48a676c19d8eb01f3e0.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+import_mode=0
+crop_to_region=false

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Queen-Face-Seduce-MyModOutfit.png-20bdb8079fcf9308e65d9653d4adc592.res"
+group_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Queen/MyModOutfit/Queen-Face-Seduce-MyModOutfit.png"
+dest_files=[ "res://.import/Queen-Face-Seduce-MyModOutfit.png-20bdb8079fcf9308e65d9653d4adc592.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+import_mode=0
+crop_to_region=false

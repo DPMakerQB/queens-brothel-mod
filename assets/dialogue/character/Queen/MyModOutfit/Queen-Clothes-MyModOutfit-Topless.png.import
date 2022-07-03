@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Queen-Clothes-MyModOutfit-Topless.png-5bd933b7c0d1e2999c8323b1a67e6334.res"
+group_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/dialogue/character/Queen/MyModOutfit/Queen-Clothes-MyModOutfit-Topless.png"
+dest_files=[ "res://.import/Queen-Clothes-MyModOutfit-Topless.png-5bd933b7c0d1e2999c8323b1a67e6334.res" ]
+
+[params]
+
+atlas_file="res://assets/dialogue/Atlases/Queen-MyModOutfit.png"
+import_mode=0
+crop_to_region=false
