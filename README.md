@@ -4,4 +4,4 @@ Use this template to start creating your own mod for Queen's Brothel!
 
 If you need help getting started, check out the documentation!
 
-[Documentation](https://queensbrothel.com/docs)
+[Documentation](https://docs.queensbrothel.com/)

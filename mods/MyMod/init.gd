@@ -12,6 +12,9 @@ func _ready():
 	QB.quest.addQuest(load("res://quests/myModQuestStart.gd").new())
 	QB.quest.addQuest(load("res://quests/myModQuestEnd.gd").new())
 
+	# Add an image to the gallery
+	QB.image.addImage("res://assets/images/QuestImages/queenAndBubbles.png", "myModQuestEnd")
+
 	# Add our outfit for Queen into the game.
 	QB.character.getCharacter("Queen").addOutfit("MyModOutfit", "My Mod Outfit", "A lovely and totally safe-for-work outfit.", false, "newGame", 100)
 
